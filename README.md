@@ -1,4 +1,4 @@
-<img src=".github/tenor.gif">
+<img src="https://github.com/maykon-oliveira/maykon-oliveira/.github/tenor.gif">
 
 ### Hi there 👋
 
