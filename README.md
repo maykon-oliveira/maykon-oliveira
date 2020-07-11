@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning:
-    - Spring microservices at [DevDOJO YouTube channel](https://www.youtube.com/playlist?list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl)
-
 - 💬 Ask me about:
     - Angular
     - Spring
