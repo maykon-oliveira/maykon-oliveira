@@ -11,6 +11,8 @@ Atualmente estou focado em fazer um [projeto proposto pelo pessoal da DevDOJO](h
     - Angular
     - Spring
     - Some React and Ionic
+- Working on:
+    - [Angular strength meter password library](https://github.com/maykon-oliveira/ngx-password-strength-meter)
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/Maykon_850)
     - [LinkedIn](https://www.linkedin.com/in/maykon-oliveira/)
