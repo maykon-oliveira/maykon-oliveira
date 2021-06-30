@@ -15,8 +15,9 @@
   - Some React
   - Some Ionic
 - Working on:
+  - Reading about Clean Architecture
   - [Angular strength meter password library](https://github.com/maykon-oliveira/ngx-password-strength-meter)
-- [My roadmap](./IDEAIS.md)
+- [My roadmap](https://github.com/maykon-oliveira/maykon-oliveira/blob/master/IDEIAS.md)
 - ⚡ Fun fact:
   - I :heart: Java but I have a relacionship with javascript too.
   - I play :guitar:
